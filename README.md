@@ -1,6 +1,6 @@
 Quiz for 42 school
 
-an file named `.env` is required
+A file named `.env` is required
 ```
 # Slack API
 SLACK_API_TOKENS=xoxb...
